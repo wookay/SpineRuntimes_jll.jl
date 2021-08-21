@@ -1,0 +1,143 @@
+[[SpineRuntimes]]
+arch = "aarch64"
+git-tree-sha1 = "05444b2f2dce0bf562422904f47f76bf39255c5d"
+os = "macos"
+
+    [[SpineRuntimes.download]]
+    sha256 = "ac800d03f62ee66c850dbe937b40db2f42d3fcda6e45b1fb4bc310e0d19dcf30"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.aarch64-apple-darwin.tar.gz"
+[[SpineRuntimes]]
+arch = "aarch64"
+git-tree-sha1 = "d121ea752be22c7b3c7a83c43236a877e4c9f30a"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "bc4ecbe4d7c606439a6c838b5eb88cef6e8aa3cad6d29444811b89590cb9d55f"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.aarch64-linux-gnu.tar.gz"
+[[SpineRuntimes]]
+arch = "aarch64"
+git-tree-sha1 = "30176292cef43d321628abc287b3611cdc0b367b"
+libc = "musl"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "4f5799cbff1d23e1777a99dc2606e1ecaa1eba62f6bd7c6b0f0acf29e6ca42db"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.aarch64-linux-musl.tar.gz"
+[[SpineRuntimes]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0bcdb7d79a3a20c439cf92ba308271186cac9f48"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "880fb03d0866f1cdc5f4f7fc5c70f8c7147b1de6b9abc9384039a22d7c001726"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.armv6l-linux-gnueabihf.tar.gz"
+[[SpineRuntimes]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "aa48fba316277362cf22434d4d1eb3aa9d963921"
+libc = "musl"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "edc013c251c7b551a744b6420367bc5e9d92d6dd9e0be994a244da5fe7545477"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.armv6l-linux-musleabihf.tar.gz"
+[[SpineRuntimes]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cba211849122b18e0904ed85e71a187e3ed9c726"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "d923e12286a519506f977efce2b43ba15e86e4a20599a7d6a3216e0030ecedff"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.armv7l-linux-gnueabihf.tar.gz"
+[[SpineRuntimes]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6b0d0b68b08cfede8475c57bb6dde6df4c88c184"
+libc = "musl"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "92ba9f7ee3fa65eb746f2de586762ed28d61103c6e4a86e84c08df8846155d59"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.armv7l-linux-musleabihf.tar.gz"
+[[SpineRuntimes]]
+arch = "i686"
+git-tree-sha1 = "d6ef1706f5c72eba9e2b17206d5225bbe5334b57"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "331bd977a7625d842fb6f5e77ff6a1ee6e689487851294995939721e2114f962"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.i686-linux-gnu.tar.gz"
+[[SpineRuntimes]]
+arch = "i686"
+git-tree-sha1 = "520dd2cb2eb09bcf6cfbebd496181d64b63124d0"
+libc = "musl"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "9600a31731535c7187bf114850c14160994cd03cc6576af83324fd8023940029"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.i686-linux-musl.tar.gz"
+[[SpineRuntimes]]
+arch = "i686"
+git-tree-sha1 = "28ccc7eb9fcff2821959c1b658a308e260fa9196"
+os = "windows"
+
+    [[SpineRuntimes.download]]
+    sha256 = "07c640b916699e245dbb1d0284a3a328ee68847d544e351e68922a6b369dfcea"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.i686-w64-mingw32.tar.gz"
+[[SpineRuntimes]]
+arch = "powerpc64le"
+git-tree-sha1 = "de7a84ff141d3ab9650ce8f474ba902529e8f358"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "e628eb90bef59c3004033c49a26d7dc6e5990f18ded0dd395d52b46b62693988"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.powerpc64le-linux-gnu.tar.gz"
+[[SpineRuntimes]]
+arch = "x86_64"
+git-tree-sha1 = "0d0530bed9b84883103c34026f599d6279b4a1b4"
+os = "macos"
+
+    [[SpineRuntimes.download]]
+    sha256 = "cabc4f5c0e7031c87804634b7d89e92e24dc7164470f1b7d24f382af55221c73"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.x86_64-apple-darwin.tar.gz"
+[[SpineRuntimes]]
+arch = "x86_64"
+git-tree-sha1 = "3a95101b70229d09087c8d69ed9569ddcb3012a6"
+libc = "glibc"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "3962bcad7df6d8e0ff2c13d1488669697b4594e4e7f48ff52f8d8e30857ebb40"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.x86_64-linux-gnu.tar.gz"
+[[SpineRuntimes]]
+arch = "x86_64"
+git-tree-sha1 = "1b546b596cafa3a28c3748312897a18f8f895251"
+libc = "musl"
+os = "linux"
+
+    [[SpineRuntimes.download]]
+    sha256 = "e38ca1daaff4d517643238beacde9ef40e6bccbe9ee217b37f075fd0830d63bd"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.x86_64-linux-musl.tar.gz"
+[[SpineRuntimes]]
+arch = "x86_64"
+git-tree-sha1 = "3d1f7abb488abf3ba9f854afa0057d06268d8713"
+os = "freebsd"
+
+    [[SpineRuntimes.download]]
+    sha256 = "3d7dc4962a1cecdf60f1165bbf9accbb47aea19680499fa3e4664cf11eb9ac4e"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.x86_64-unknown-freebsd.tar.gz"
+[[SpineRuntimes]]
+arch = "x86_64"
+git-tree-sha1 = "7412644645bef522eea99f200b9a76b43c635228"
+os = "windows"
+
+    [[SpineRuntimes.download]]
+    sha256 = "eaa73315770b0675224cbb71b910b16583b935773ed4eb2fc1a80e32d68d3bc1"
+    url = "https://github.com/wookay/SpineRuntimes_jll.jl/releases/download/SpineRuntimes-v3.8.95+0/SpineRuntimes.v3.8.95.x86_64-w64-mingw32.tar.gz"
